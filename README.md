@@ -5,3 +5,4 @@ This virtual machine is a basic Linux Mint with some productivity and entertainm
 
 I intend to create scripts to update this base image for routine use and at some cadence will re-release the as-built image to allow members to download and be prodcutive faster.
 
+In order to use this VM, you will need VMWare Workstation.
