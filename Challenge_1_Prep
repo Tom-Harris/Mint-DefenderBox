@@ -1,0 +1,19 @@
+Wireshark/PCAP Introduction
+
+Dependencies:
+  Wireshark
+  
+Content:
+  Tutorials: https://malware-traffic-analysis.net/tutorials/index.html
+  Challenge: https://malware-traffic-analysis.net/2020/05/28/index.html
+  
+  You can also download the challenge content directly:
+  
+     wget https://malware-traffic-analysis.net/2020/05/28/2020-05-28-traffic-analysis-exercise.pcap.zip
+     wget https://malware-traffic-analysis.net/2020/05/28/2020-05-28-traffic-analysis-exercise-answers.pdf.zip
+  
+To get the password, got to: https://malware-traffic-analysis.net/about.html 
+
+
+  
+  
