@@ -17,5 +17,7 @@ sudo usermod -a -G wireshark $USER     # change $USER to the account you will us
 
 Once you have the base image built go to the challenges folder and grab the instructions to prepare for the week.
 
+OPTION 3: Put this on another machine you already have
 
+Wireshark is available for Windows however I would not recommend playing around with technology on your personal "production" machines.  It's bad form and could lead to problems down the road.
 
